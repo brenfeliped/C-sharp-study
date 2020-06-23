@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "98fPy+/VI4d5JYRCIg9KaDwijrZuDW9fjs62WS6PZs6QB4pvDhu3SwC6Dx/B2bKV9Ng/4wPA22tt8G5KvMOdEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\breno\\Documents\\GitHub\\C-sharp-study\\ManagerTeam\\Source\\Source.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\breno\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\breno\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
